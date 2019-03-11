@@ -1,0 +1,3 @@
+E:/projects/dummies/Cpp/RpnEquationSolver/cmake-build-debug/CMakeFiles/RpnEquationSolver.dir
+E:/projects/dummies/Cpp/RpnEquationSolver/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/projects/dummies/Cpp/RpnEquationSolver/cmake-build-debug/CMakeFiles/rebuild_cache.dir
